@@ -1,0 +1,21 @@
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C272875,CC0402KRX7R9BB473,YAGEO,0402,"C10, C11",47nF ±10% 50V Ceramic Capacitor X7R 0402,yes,100,100,100,0.0044,0.44,https://www.lcsc.com/product-detail/C272875.html
+2,C97521,W25Q128JVSIQ,Winbond,SOIC-8-208mil,U5,2.7V~3.6V 128Mbit 133MHz SPI SOIC-8-208mil Memory (ICs) RoHS,yes,2,1,1,2.6399,5.28,https://www.lcsc.com/product-detail/C97521.html
+3,C51118,AP2112K-3.3TRG1,DIODES,SOT-25-5,U4,"3.3V Positive Fixed SOT-25-5 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,5,5,5,0.1634,0.82,https://www.lcsc.com/product-detail/C51118.html
+4,C470892,PE4259-63,pSemi,SC-70-6,U3,10MHz~3GHz SC-70-6 RF Switches RoHS,yes,2,1,1,0.6297,1.26,https://www.lcsc.com/product-detail/C470892.html
+5,C191341,SX1262IMLTRT,SEMTECH,QFN-24-EP(4x4),U2,300Kbps -148dBm 150MHz~960MHz 1.8V~3.7V QFN-24-EP(4x4) RF Transceiver ICs RoHS,yes,2,1,1,3.2486,6.50,https://www.lcsc.com/product-detail/C191341.html
+6,C105872,RC0402FR-075K1L,YAGEO,0402,"R7, R8",5.1kΩ 62.5mW 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0010,0.10,https://www.lcsc.com/product-detail/C105872.html
+7,C106235,RC0402FR-071KL,YAGEO,0402,"R2, R6",1kΩ 62.5mW 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0010,0.10,https://www.lcsc.com/product-detail/C106235.html
+8,C395068,VHF100505HQ47NJT,FH,0402,L3,700mA 47nH ±5% 160mΩ 0402 Fixed Inductors RoHS,yes,100,100,100,0.0055,0.55,https://www.lcsc.com/product-detail/C395068.html
+9,C98055,LQW15AN15NG00D,muRata,0402,L1,460mA 15nH ±2% 160mΩ Unshielded Inductor 0402 Fixed Inductors RoHS,yes,20,20,20,0.0665,1.33,https://www.lcsc.com/product-detail/C98055.html
+10,C85815,BLM15AX102SN1D,muRata,0402,FB1,1kΩ@100MHz 1 Line Ferrite Bead 0402 350mA 490mΩ,yes,100,100,100,0.0113,1.13,https://www.lcsc.com/product-detail/C85815.html
+11,C327068,CC0402FRNPO9BN390,YAGEO,0402,C7,39pF ±1% 50V Ceramic Capacitor NP0 0402,yes,100,100,100,0.0045,0.45,https://www.lcsc.com/product-detail/C327068.html
+12,C76947,GRM1555C1H102JA01D,muRata,0402,C6,1nF ±5% 50V Ceramic Capacitor C0G 0402,yes,100,100,100,0.0073,0.73,https://www.lcsc.com/product-detail/C76947.html
+13,C77177,GRM1555C1H101JA01D,muRata,0402,C5,100pF ±5% 50V Ceramic Capacitor C0G 0402,yes,100,100,100,0.0050,0.50,https://www.lcsc.com/product-detail/C77177.html
+14,C92361,CL05A474KA5NNNC,Samsung Electro-Mechanics,0402,C3,470nF ±10% 25V Ceramic Capacitor X5R 0402,yes,20,10,10,0.0162,0.32,https://www.lcsc.com/product-detail/C92361.html
+15,C76906,GJM1555C1H3R3BB01D,muRata,0402,"C25, C26, C8, C9",3.3pF 50V Ceramic Capacitor C0G 0402,yes,50,50,50,0.0317,1.59,https://www.lcsc.com/product-detail/C76906.html
+16,C29266,CL05A105KO5NNNC,Samsung Electro-Mechanics,0402,"C21, C24",1uF ±10% 16V Ceramic Capacitor X5R 0402,yes,100,100,100,0.0038,0.38,https://www.lcsc.com/product-detail/C29266.html
+17,C107002,CC0402JRNPO9BN270,YAGEO,0402,"C12, C13",27pF ±5% 50V Ceramic Capacitor NP0 0402,yes,100,100,100,0.0019,0.19,https://www.lcsc.com/product-detail/C107002.html
+18,C60474,CC0402KRX7R7BB104,YAGEO,0402,"C1, C14, C15, C16, C17, C18, C19, C2, C20, C22, C23, C27, C4",100nF ±10% 16V Ceramic Capacitor X7R 0402,yes,100,100,100,0.0018,0.18,https://www.lcsc.com/product-detail/C60474.html
+19,C2040,RP2040,Raspberry Pi,LQFN-56(7x7),,133MHz 30 LQFN-56(7x7) Microcontrollers RoHS,yes,2,1,1,0.9482,1.90,https://www.lcsc.com/product-detail/C2040.html
+20,C284479,ARG02FTC27R4,Viking,0402,,27.4Ω ±1% 62.5mW 0402 Thin Film Resistor,yes,200,100,100,0.0059,1.18,https://www.lcsc.com/product-detail/C284479.html
