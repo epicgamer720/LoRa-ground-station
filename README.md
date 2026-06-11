@@ -27,7 +27,7 @@ The flight controller sends telemetry down over LoRa, but that's only half the l
 | Band | 902–928 MHz ISM (915 MHz, US) |
 | RF switch | PE4259 — TX/RX antenna switching |
 | Reference | 32 MHz TCXO (ECS-TXO) for the radio |
-| Antenna | Chip antenna + SMA connector |
+| Antenna | SMA connector |
 | Flash | W25Q128 — 16 MB QSPI for firmware |
 | Clock | 12 MHz crystal for the RP2040 |
 | Power | AP2112K-3.3 LDO, USB-C |
